@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.183,
+  "time": 0.185,
   "errors": [],
   "tasks": [
     {
@@ -62,13 +62,13 @@
         "scheme": "file",
         "title": "Exames solicitados por setor de solicitação e média de exames por paciente por setor de internação, por unidade da FHEMIG.",
         "stats": {
-          "hash": "4efd34bfe7c6e6a00959c3aba792fb34",
-          "bytes": 646231,
+          "hash": "85043329ae3d7725752558d91ec99633",
+          "bytes": 654083,
           "fields": 8,
-          "rows": 8809
+          "rows": 8921
         }
       },
-      "time": 0.173,
+      "time": 0.175,
       "scope": [
         "hash-count-error",
         "byte-count-error",
