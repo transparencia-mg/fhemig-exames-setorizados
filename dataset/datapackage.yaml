@@ -27,16 +27,16 @@ resources:
           description: "Mês"
         - name: exames_img
           type: integer
-          description: "Exames de Imagem Solicitados (tecnologias de imagem para realização de diagnósticos)."
+          description: "Exames de Imagem Solicitados (tecnologias de imagem para realização de diagnósticos) pelo setor."
         - name: exame_img_por_paciente
           type: string
-          description: "Exames de imagem por paciente (total de exames de imagem solicitados por paciente internado)."
+          description: "Exames de imagem por paciente (total de exames de imagem solicitados pelo setor dividido pelo total de saídas do setor)."
         - name: exames_lab
           type: integer
-          description: "Exames laboratoriais Solicitados (conjunto de exames e testes feitos em laboratórios de análises clínicas para realização de diagnóstico ou confirmação de patologia)."
+          description: "Exames laboratoriais Solicitados (conjunto de exames e testes feitos em laboratórios de análises clínicas para realização de diagnóstico ou confirmação de patologia) pelo setor."
         - name: exame_lab_por_paciente
           type: string
-          description: "Exames Laboratoriais por paciente (total de exames laboratoriais solicitados por paciente internado)."
+          description: "Exames Laboratoriais por paciente (total de exames laboratoriais solicitados pelo setor dividido pelo total de saídas do setor)."
     scheme: file
     title: Exames solicitados por setor de solicitação e média de exames por paciente por setor de internação, por unidade da FHEMIG.
 title: Exames laboratoriais e de imagem solicidados setorizados
