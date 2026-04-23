@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.059,
+  "time": 0.065,
   "errors": [],
   "tasks": [
     {
@@ -40,22 +40,22 @@
             {
               "name": "exames_img",
               "type": "integer",
-              "description": "Exames de Imagem Solicitados (tecnologias de imagem para realização de diagnósticos)."
+              "description": "Exames de Imagem Solicitados (tecnologias de imagem para realização de diagnósticos) pelo setor."
             },
             {
               "name": "exame_img_por_paciente",
               "type": "string",
-              "description": "Exames de imagem por paciente (total de exames de imagem solicitados por paciente internado)."
+              "description": "Exames de imagem por paciente (total de exames de imagem solicitados pelo setor dividido pelo total de saídas do setor)."
             },
             {
               "name": "exames_lab",
               "type": "integer",
-              "description": "Exames laboratoriais Solicitados (conjunto de exames e testes feitos em laboratórios de análises clínicas para realização de diagnóstico ou confirmação de patologia)."
+              "description": "Exames laboratoriais Solicitados (conjunto de exames e testes feitos em laboratórios de análises clínicas para realização de diagnóstico ou confirmação de patologia) pelo setor."
             },
             {
               "name": "exame_lab_por_paciente",
               "type": "string",
-              "description": "Exames Laboratoriais por paciente (total de exames laboratoriais solicitados por paciente internado)."
+              "description": "Exames Laboratoriais por paciente (total de exames laboratoriais solicitados pelo setor dividido pelo total de saídas do setor)."
             }
           ]
         },
@@ -68,7 +68,7 @@
           "rows": 0
         }
       },
-      "time": 0.05,
+      "time": 0.054,
       "scope": [
         "hash-count-error",
         "byte-count-error",
