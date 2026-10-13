@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.065,
+  "time": 0.069,
   "errors": [],
   "tasks": [
     {
@@ -68,7 +68,7 @@
           "rows": 0
         }
       },
-      "time": 0.054,
+      "time": 0.057,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -22542,20 +22542,20 @@
           "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
         },
         {
-          "cell": "2024,0",
+          "cell": "2026,0",
           "fieldName": "ano",
           "fieldNumber": 3,
           "fieldPosition": 3,
           "cells": [
             "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2024,0",
-            "6,0",
-            "3,0",
-            "41,0",
+            "UIP-FEMININA/CHPB/CHB",
+            "2026,0",
+            "9,0",
             "8,0",
-            "0,375",
-            "5,125"
+            "33,0",
+            "9,0",
+            "0,8888888888888888",
+            "3,6666666666666665"
           ],
           "rowNumber": 155,
           "rowPosition": 156,
@@ -22567,24 +22567,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2024,0\" in row \"156\" and field \"ano\" at position \"3\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"156\" and field \"ano\" at position \"3\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "9,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2024,0",
-            "6,0",
-            "3,0",
-            "41,0",
+            "UIP-FEMININA/CHPB/CHB",
+            "2026,0",
+            "9,0",
             "8,0",
-            "0,375",
-            "5,125"
+            "33,0",
+            "9,0",
+            "0,8888888888888888",
+            "3,6666666666666665"
           ],
           "rowNumber": 155,
           "rowPosition": 156,
@@ -22596,24 +22596,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"156\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"156\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "3,0",
+          "cell": "8,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
           "cells": [
             "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2024,0",
-            "6,0",
-            "3,0",
-            "41,0",
+            "UIP-FEMININA/CHPB/CHB",
+            "2026,0",
+            "9,0",
             "8,0",
-            "0,375",
-            "5,125"
+            "33,0",
+            "9,0",
+            "0,8888888888888888",
+            "3,6666666666666665"
           ],
           "rowNumber": 155,
           "rowPosition": 156,
@@ -22625,24 +22625,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"3,0\" in row \"156\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"156\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "9,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
             "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2024,0",
-            "6,0",
-            "3,0",
-            "41,0",
+            "UIP-FEMININA/CHPB/CHB",
+            "2026,0",
+            "9,0",
             "8,0",
-            "0,375",
-            "5,125"
+            "33,0",
+            "9,0",
+            "0,8888888888888888",
+            "3,6666666666666665"
           ],
           "rowNumber": 155,
           "rowPosition": 156,
@@ -22654,24 +22654,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"156\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"156\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "5,125",
+          "cell": "3,6666666666666665",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
           "cells": [
             "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2024,0",
-            "6,0",
-            "3,0",
-            "41,0",
+            "UIP-FEMININA/CHPB/CHB",
+            "2026,0",
+            "9,0",
             "8,0",
-            "0,375",
-            "5,125"
+            "33,0",
+            "9,0",
+            "0,8888888888888888",
+            "3,6666666666666665"
           ],
           "rowNumber": 155,
           "rowPosition": 156,
@@ -22695,12 +22695,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "7,0",
-            "15,0",
-            "424,0",
-            "27,0",
-            "0,5555555555555556",
-            "15,703703703703704"
+            "6,0",
+            "3,0",
+            "41,0",
+            "8,0",
+            "0,375",
+            "5,125"
           ],
           "rowNumber": 156,
           "rowPosition": 157,
@@ -22716,7 +22716,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "6,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22724,12 +22724,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "7,0",
-            "15,0",
-            "424,0",
-            "27,0",
-            "0,5555555555555556",
-            "15,703703703703704"
+            "6,0",
+            "3,0",
+            "41,0",
+            "8,0",
+            "0,375",
+            "5,125"
           ],
           "rowNumber": 156,
           "rowPosition": 157,
@@ -22741,11 +22741,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"157\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"157\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "15,0",
+          "cell": "3,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -22753,12 +22753,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "7,0",
-            "15,0",
-            "424,0",
-            "27,0",
-            "0,5555555555555556",
-            "15,703703703703704"
+            "6,0",
+            "3,0",
+            "41,0",
+            "8,0",
+            "0,375",
+            "5,125"
           ],
           "rowNumber": 156,
           "rowPosition": 157,
@@ -22770,11 +22770,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"15,0\" in row \"157\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"3,0\" in row \"157\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "27,0",
+          "cell": "8,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -22782,12 +22782,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "7,0",
-            "15,0",
-            "424,0",
-            "27,0",
-            "0,5555555555555556",
-            "15,703703703703704"
+            "6,0",
+            "3,0",
+            "41,0",
+            "8,0",
+            "0,375",
+            "5,125"
           ],
           "rowNumber": 156,
           "rowPosition": 157,
@@ -22799,11 +22799,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"27,0\" in row \"157\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"157\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "15,703703703703704",
+          "cell": "5,125",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -22811,12 +22811,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "7,0",
-            "15,0",
-            "424,0",
-            "27,0",
-            "0,5555555555555556",
-            "15,703703703703704"
+            "6,0",
+            "3,0",
+            "41,0",
+            "8,0",
+            "0,375",
+            "5,125"
           ],
           "rowNumber": 156,
           "rowPosition": 157,
@@ -22840,12 +22840,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "8,0",
             "7,0",
-            "309,0",
-            "14,0",
-            "0,5",
-            "22,071428571428573"
+            "15,0",
+            "424,0",
+            "27,0",
+            "0,5555555555555556",
+            "15,703703703703704"
           ],
           "rowNumber": 157,
           "rowPosition": 158,
@@ -22861,7 +22861,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "7,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22869,12 +22869,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "8,0",
             "7,0",
-            "309,0",
-            "14,0",
-            "0,5",
-            "22,071428571428573"
+            "15,0",
+            "424,0",
+            "27,0",
+            "0,5555555555555556",
+            "15,703703703703704"
           ],
           "rowNumber": 157,
           "rowPosition": 158,
@@ -22886,11 +22886,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"158\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"158\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "15,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -22898,12 +22898,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "8,0",
             "7,0",
-            "309,0",
-            "14,0",
-            "0,5",
-            "22,071428571428573"
+            "15,0",
+            "424,0",
+            "27,0",
+            "0,5555555555555556",
+            "15,703703703703704"
           ],
           "rowNumber": 157,
           "rowPosition": 158,
@@ -22915,11 +22915,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"158\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"15,0\" in row \"158\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "14,0",
+          "cell": "27,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -22927,12 +22927,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "8,0",
             "7,0",
-            "309,0",
-            "14,0",
-            "0,5",
-            "22,071428571428573"
+            "15,0",
+            "424,0",
+            "27,0",
+            "0,5555555555555556",
+            "15,703703703703704"
           ],
           "rowNumber": 157,
           "rowPosition": 158,
@@ -22944,11 +22944,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"14,0\" in row \"158\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"27,0\" in row \"158\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "22,071428571428573",
+          "cell": "15,703703703703704",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -22956,12 +22956,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "8,0",
             "7,0",
-            "309,0",
-            "14,0",
-            "0,5",
-            "22,071428571428573"
+            "15,0",
+            "424,0",
+            "27,0",
+            "0,5555555555555556",
+            "15,703703703703704"
           ],
           "rowNumber": 157,
           "rowPosition": 158,
@@ -22985,12 +22985,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "9,0",
-            "19,0",
-            "369,0",
-            "20,0",
-            "0,95",
-            "18,45"
+            "8,0",
+            "7,0",
+            "309,0",
+            "14,0",
+            "0,5",
+            "22,071428571428573"
           ],
           "rowNumber": 158,
           "rowPosition": 159,
@@ -23006,7 +23006,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "9,0",
+          "cell": "8,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23014,12 +23014,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "9,0",
-            "19,0",
-            "369,0",
-            "20,0",
-            "0,95",
-            "18,45"
+            "8,0",
+            "7,0",
+            "309,0",
+            "14,0",
+            "0,5",
+            "22,071428571428573"
           ],
           "rowNumber": 158,
           "rowPosition": 159,
@@ -23031,11 +23031,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"9,0\" in row \"159\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"159\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "19,0",
+          "cell": "7,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -23043,12 +23043,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "9,0",
-            "19,0",
-            "369,0",
-            "20,0",
-            "0,95",
-            "18,45"
+            "8,0",
+            "7,0",
+            "309,0",
+            "14,0",
+            "0,5",
+            "22,071428571428573"
           ],
           "rowNumber": 158,
           "rowPosition": 159,
@@ -23060,11 +23060,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"19,0\" in row \"159\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"159\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "20,0",
+          "cell": "14,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -23072,12 +23072,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "9,0",
-            "19,0",
-            "369,0",
-            "20,0",
-            "0,95",
-            "18,45"
+            "8,0",
+            "7,0",
+            "309,0",
+            "14,0",
+            "0,5",
+            "22,071428571428573"
           ],
           "rowNumber": 158,
           "rowPosition": 159,
@@ -23089,11 +23089,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"20,0\" in row \"159\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"14,0\" in row \"159\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "18,45",
+          "cell": "22,071428571428573",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -23101,12 +23101,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "9,0",
-            "19,0",
-            "369,0",
-            "20,0",
-            "0,95",
-            "18,45"
+            "8,0",
+            "7,0",
+            "309,0",
+            "14,0",
+            "0,5",
+            "22,071428571428573"
           ],
           "rowNumber": 158,
           "rowPosition": 159,
@@ -23130,12 +23130,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "10,0",
-            "8,0",
-            "317,0",
+            "9,0",
+            "19,0",
+            "369,0",
             "20,0",
-            "0,4",
-            "15,85"
+            "0,95",
+            "18,45"
           ],
           "rowNumber": 159,
           "rowPosition": 160,
@@ -23151,7 +23151,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "10,0",
+          "cell": "9,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23159,12 +23159,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "10,0",
-            "8,0",
-            "317,0",
+            "9,0",
+            "19,0",
+            "369,0",
             "20,0",
-            "0,4",
-            "15,85"
+            "0,95",
+            "18,45"
           ],
           "rowNumber": 159,
           "rowPosition": 160,
@@ -23176,11 +23176,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"10,0\" in row \"160\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"160\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "19,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -23188,12 +23188,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "10,0",
-            "8,0",
-            "317,0",
+            "9,0",
+            "19,0",
+            "369,0",
             "20,0",
-            "0,4",
-            "15,85"
+            "0,95",
+            "18,45"
           ],
           "rowNumber": 159,
           "rowPosition": 160,
@@ -23205,7 +23205,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"160\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"19,0\" in row \"160\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23217,12 +23217,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "10,0",
-            "8,0",
-            "317,0",
+            "9,0",
+            "19,0",
+            "369,0",
             "20,0",
-            "0,4",
-            "15,85"
+            "0,95",
+            "18,45"
           ],
           "rowNumber": 159,
           "rowPosition": 160,
@@ -23238,7 +23238,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "15,85",
+          "cell": "18,45",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -23246,12 +23246,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "10,0",
-            "8,0",
-            "317,0",
+            "9,0",
+            "19,0",
+            "369,0",
             "20,0",
-            "0,4",
-            "15,85"
+            "0,95",
+            "18,45"
           ],
           "rowNumber": 159,
           "rowPosition": 160,
@@ -23275,12 +23275,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "11,0",
-            "2,0",
-            "315,0",
-            "17,0",
-            "0,11764705882352941",
-            "18,529411764705884"
+            "10,0",
+            "8,0",
+            "317,0",
+            "20,0",
+            "0,4",
+            "15,85"
           ],
           "rowNumber": 160,
           "rowPosition": 161,
@@ -23296,7 +23296,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,0",
+          "cell": "10,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23304,12 +23304,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "11,0",
-            "2,0",
-            "315,0",
-            "17,0",
-            "0,11764705882352941",
-            "18,529411764705884"
+            "10,0",
+            "8,0",
+            "317,0",
+            "20,0",
+            "0,4",
+            "15,85"
           ],
           "rowNumber": 160,
           "rowPosition": 161,
@@ -23321,11 +23321,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"11,0\" in row \"161\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"10,0\" in row \"161\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "8,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -23333,12 +23333,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "11,0",
-            "2,0",
-            "315,0",
-            "17,0",
-            "0,11764705882352941",
-            "18,529411764705884"
+            "10,0",
+            "8,0",
+            "317,0",
+            "20,0",
+            "0,4",
+            "15,85"
           ],
           "rowNumber": 160,
           "rowPosition": 161,
@@ -23350,11 +23350,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"161\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"161\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17,0",
+          "cell": "20,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -23362,12 +23362,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "11,0",
-            "2,0",
-            "315,0",
-            "17,0",
-            "0,11764705882352941",
-            "18,529411764705884"
+            "10,0",
+            "8,0",
+            "317,0",
+            "20,0",
+            "0,4",
+            "15,85"
           ],
           "rowNumber": 160,
           "rowPosition": 161,
@@ -23379,11 +23379,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"17,0\" in row \"161\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"20,0\" in row \"161\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "18,529411764705884",
+          "cell": "15,85",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -23391,12 +23391,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "11,0",
-            "2,0",
-            "315,0",
-            "17,0",
-            "0,11764705882352941",
-            "18,529411764705884"
+            "10,0",
+            "8,0",
+            "317,0",
+            "20,0",
+            "0,4",
+            "15,85"
           ],
           "rowNumber": 160,
           "rowPosition": 161,
@@ -23420,12 +23420,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "12,0",
-            "8,0",
-            "297,0",
-            "24,0",
-            "0,3333333333333333",
-            "12,375"
+            "11,0",
+            "2,0",
+            "315,0",
+            "17,0",
+            "0,11764705882352941",
+            "18,529411764705884"
           ],
           "rowNumber": 161,
           "rowPosition": 162,
@@ -23441,7 +23441,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "12,0",
+          "cell": "11,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23449,12 +23449,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "12,0",
-            "8,0",
-            "297,0",
-            "24,0",
-            "0,3333333333333333",
-            "12,375"
+            "11,0",
+            "2,0",
+            "315,0",
+            "17,0",
+            "0,11764705882352941",
+            "18,529411764705884"
           ],
           "rowNumber": 161,
           "rowPosition": 162,
@@ -23466,11 +23466,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"12,0\" in row \"162\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"11,0\" in row \"162\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "2,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -23478,12 +23478,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "12,0",
-            "8,0",
-            "297,0",
-            "24,0",
-            "0,3333333333333333",
-            "12,375"
+            "11,0",
+            "2,0",
+            "315,0",
+            "17,0",
+            "0,11764705882352941",
+            "18,529411764705884"
           ],
           "rowNumber": 161,
           "rowPosition": 162,
@@ -23495,11 +23495,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"162\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"162\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "24,0",
+          "cell": "17,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -23507,12 +23507,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "12,0",
-            "8,0",
-            "297,0",
-            "24,0",
-            "0,3333333333333333",
-            "12,375"
+            "11,0",
+            "2,0",
+            "315,0",
+            "17,0",
+            "0,11764705882352941",
+            "18,529411764705884"
           ],
           "rowNumber": 161,
           "rowPosition": 162,
@@ -23524,11 +23524,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"24,0\" in row \"162\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"17,0\" in row \"162\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "12,375",
+          "cell": "18,529411764705884",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -23536,12 +23536,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2024,0",
-            "12,0",
-            "8,0",
-            "297,0",
-            "24,0",
-            "0,3333333333333333",
-            "12,375"
+            "11,0",
+            "2,0",
+            "315,0",
+            "17,0",
+            "0,11764705882352941",
+            "18,529411764705884"
           ],
           "rowNumber": 161,
           "rowPosition": 162,
@@ -23557,20 +23557,20 @@
           "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
         },
         {
-          "cell": "2025,0",
+          "cell": "2024,0",
           "fieldName": "ano",
           "fieldNumber": 3,
           "fieldPosition": 3,
           "cells": [
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
-            "2025,0",
-            "1,0",
-            "11,0",
-            "354,0",
-            "14,0",
-            "0,7857142857142857",
-            "25,285714285714285"
+            "2024,0",
+            "12,0",
+            "8,0",
+            "299,0",
+            "24,0",
+            "0,3333333333333333",
+            "12,458333333333334"
           ],
           "rowNumber": 162,
           "rowPosition": 163,
@@ -23582,24 +23582,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2025,0\" in row \"163\" and field \"ano\" at position \"3\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2024,0\" in row \"163\" and field \"ano\" at position \"3\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "1,0",
+          "cell": "12,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
-            "2025,0",
-            "1,0",
-            "11,0",
-            "354,0",
-            "14,0",
-            "0,7857142857142857",
-            "25,285714285714285"
+            "2024,0",
+            "12,0",
+            "8,0",
+            "299,0",
+            "24,0",
+            "0,3333333333333333",
+            "12,458333333333334"
           ],
           "rowNumber": 162,
           "rowPosition": 163,
@@ -23611,24 +23611,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"1,0\" in row \"163\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"12,0\" in row \"163\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,0",
+          "cell": "8,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
           "cells": [
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
-            "2025,0",
-            "1,0",
-            "11,0",
-            "354,0",
-            "14,0",
-            "0,7857142857142857",
-            "25,285714285714285"
+            "2024,0",
+            "12,0",
+            "8,0",
+            "299,0",
+            "24,0",
+            "0,3333333333333333",
+            "12,458333333333334"
           ],
           "rowNumber": 162,
           "rowPosition": 163,
@@ -23640,24 +23640,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"11,0\" in row \"163\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"163\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "14,0",
+          "cell": "24,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
-            "2025,0",
-            "1,0",
-            "11,0",
-            "354,0",
-            "14,0",
-            "0,7857142857142857",
-            "25,285714285714285"
+            "2024,0",
+            "12,0",
+            "8,0",
+            "299,0",
+            "24,0",
+            "0,3333333333333333",
+            "12,458333333333334"
           ],
           "rowNumber": 162,
           "rowPosition": 163,
@@ -23669,24 +23669,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"14,0\" in row \"163\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"24,0\" in row \"163\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "25,285714285714285",
+          "cell": "12,458333333333334",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
           "cells": [
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
-            "2025,0",
-            "1,0",
-            "11,0",
-            "354,0",
-            "14,0",
-            "0,7857142857142857",
-            "25,285714285714285"
+            "2024,0",
+            "12,0",
+            "8,0",
+            "299,0",
+            "24,0",
+            "0,3333333333333333",
+            "12,458333333333334"
           ],
           "rowNumber": 162,
           "rowPosition": 163,
@@ -23710,12 +23710,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "2,0",
-            "17,0",
+            "1,0",
+            "11,0",
             "354,0",
-            "16,0",
-            "1,0625",
-            "22,125"
+            "14,0",
+            "0,7857142857142857",
+            "25,285714285714285"
           ],
           "rowNumber": 163,
           "rowPosition": 164,
@@ -23731,7 +23731,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "1,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23739,12 +23739,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "2,0",
-            "17,0",
+            "1,0",
+            "11,0",
             "354,0",
-            "16,0",
-            "1,0625",
-            "22,125"
+            "14,0",
+            "0,7857142857142857",
+            "25,285714285714285"
           ],
           "rowNumber": 163,
           "rowPosition": 164,
@@ -23756,11 +23756,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"164\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"164\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17,0",
+          "cell": "11,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -23768,12 +23768,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "2,0",
-            "17,0",
+            "1,0",
+            "11,0",
             "354,0",
-            "16,0",
-            "1,0625",
-            "22,125"
+            "14,0",
+            "0,7857142857142857",
+            "25,285714285714285"
           ],
           "rowNumber": 163,
           "rowPosition": 164,
@@ -23785,11 +23785,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"17,0\" in row \"164\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"11,0\" in row \"164\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "16,0",
+          "cell": "14,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -23797,12 +23797,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "2,0",
-            "17,0",
+            "1,0",
+            "11,0",
             "354,0",
-            "16,0",
-            "1,0625",
-            "22,125"
+            "14,0",
+            "0,7857142857142857",
+            "25,285714285714285"
           ],
           "rowNumber": 163,
           "rowPosition": 164,
@@ -23814,11 +23814,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"16,0\" in row \"164\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"14,0\" in row \"164\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "22,125",
+          "cell": "25,285714285714285",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -23826,12 +23826,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "2,0",
-            "17,0",
+            "1,0",
+            "11,0",
             "354,0",
-            "16,0",
-            "1,0625",
-            "22,125"
+            "14,0",
+            "0,7857142857142857",
+            "25,285714285714285"
           ],
           "rowNumber": 163,
           "rowPosition": 164,
@@ -23855,12 +23855,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "3,0",
-            "0,0",
-            "222,0",
-            "21,0",
-            "0,0",
-            "10,571428571428571"
+            "2,0",
+            "17,0",
+            "355,0",
+            "16,0",
+            "1,0625",
+            "22,1875"
           ],
           "rowNumber": 164,
           "rowPosition": 165,
@@ -23876,7 +23876,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "3,0",
+          "cell": "2,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23884,12 +23884,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "3,0",
-            "0,0",
-            "222,0",
-            "21,0",
-            "0,0",
-            "10,571428571428571"
+            "2,0",
+            "17,0",
+            "355,0",
+            "16,0",
+            "1,0625",
+            "22,1875"
           ],
           "rowNumber": 164,
           "rowPosition": 165,
@@ -23901,11 +23901,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"3,0\" in row \"165\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"165\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "0,0",
+          "cell": "17,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -23913,12 +23913,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "3,0",
-            "0,0",
-            "222,0",
-            "21,0",
-            "0,0",
-            "10,571428571428571"
+            "2,0",
+            "17,0",
+            "355,0",
+            "16,0",
+            "1,0625",
+            "22,1875"
           ],
           "rowNumber": 164,
           "rowPosition": 165,
@@ -23930,11 +23930,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"0,0\" in row \"165\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"17,0\" in row \"165\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "21,0",
+          "cell": "16,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -23942,12 +23942,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "3,0",
-            "0,0",
-            "222,0",
-            "21,0",
-            "0,0",
-            "10,571428571428571"
+            "2,0",
+            "17,0",
+            "355,0",
+            "16,0",
+            "1,0625",
+            "22,1875"
           ],
           "rowNumber": 164,
           "rowPosition": 165,
@@ -23959,11 +23959,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"21,0\" in row \"165\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"16,0\" in row \"165\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "10,571428571428571",
+          "cell": "22,1875",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -23971,12 +23971,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "3,0",
-            "0,0",
-            "222,0",
-            "21,0",
-            "0,0",
-            "10,571428571428571"
+            "2,0",
+            "17,0",
+            "355,0",
+            "16,0",
+            "1,0625",
+            "22,1875"
           ],
           "rowNumber": 164,
           "rowPosition": 165,
@@ -24000,12 +24000,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "4,0",
-            "23,0",
-            "400,0",
-            "17,0",
-            "1,3529411764705883",
-            "23,529411764705884"
+            "3,0",
+            "0,0",
+            "222,0",
+            "21,0",
+            "0,0",
+            "10,571428571428571"
           ],
           "rowNumber": 165,
           "rowPosition": 166,
@@ -24021,7 +24021,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "4,0",
+          "cell": "3,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24029,12 +24029,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "4,0",
-            "23,0",
-            "400,0",
-            "17,0",
-            "1,3529411764705883",
-            "23,529411764705884"
+            "3,0",
+            "0,0",
+            "222,0",
+            "21,0",
+            "0,0",
+            "10,571428571428571"
           ],
           "rowNumber": 165,
           "rowPosition": 166,
@@ -24046,11 +24046,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"166\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"3,0\" in row \"166\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "23,0",
+          "cell": "0,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -24058,12 +24058,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "4,0",
-            "23,0",
-            "400,0",
-            "17,0",
-            "1,3529411764705883",
-            "23,529411764705884"
+            "3,0",
+            "0,0",
+            "222,0",
+            "21,0",
+            "0,0",
+            "10,571428571428571"
           ],
           "rowNumber": 165,
           "rowPosition": 166,
@@ -24075,11 +24075,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"23,0\" in row \"166\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"0,0\" in row \"166\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17,0",
+          "cell": "21,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -24087,12 +24087,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "4,0",
-            "23,0",
-            "400,0",
-            "17,0",
-            "1,3529411764705883",
-            "23,529411764705884"
+            "3,0",
+            "0,0",
+            "222,0",
+            "21,0",
+            "0,0",
+            "10,571428571428571"
           ],
           "rowNumber": 165,
           "rowPosition": 166,
@@ -24104,11 +24104,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"17,0\" in row \"166\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"21,0\" in row \"166\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "23,529411764705884",
+          "cell": "10,571428571428571",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -24116,12 +24116,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "4,0",
-            "23,0",
-            "400,0",
-            "17,0",
-            "1,3529411764705883",
-            "23,529411764705884"
+            "3,0",
+            "0,0",
+            "222,0",
+            "21,0",
+            "0,0",
+            "10,571428571428571"
           ],
           "rowNumber": 165,
           "rowPosition": 166,
@@ -24145,12 +24145,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "5,0",
-            "7,0",
-            "335,0",
-            "15,0",
-            "0,4666666666666667",
-            "22,333333333333332"
+            "4,0",
+            "23,0",
+            "400,0",
+            "17,0",
+            "1,3529411764705883",
+            "23,529411764705884"
           ],
           "rowNumber": 166,
           "rowPosition": 167,
@@ -24166,7 +24166,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "5,0",
+          "cell": "4,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24174,12 +24174,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "5,0",
-            "7,0",
-            "335,0",
-            "15,0",
-            "0,4666666666666667",
-            "22,333333333333332"
+            "4,0",
+            "23,0",
+            "400,0",
+            "17,0",
+            "1,3529411764705883",
+            "23,529411764705884"
           ],
           "rowNumber": 166,
           "rowPosition": 167,
@@ -24191,11 +24191,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"5,0\" in row \"167\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"167\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "23,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -24203,12 +24203,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "5,0",
-            "7,0",
-            "335,0",
-            "15,0",
-            "0,4666666666666667",
-            "22,333333333333332"
+            "4,0",
+            "23,0",
+            "400,0",
+            "17,0",
+            "1,3529411764705883",
+            "23,529411764705884"
           ],
           "rowNumber": 166,
           "rowPosition": 167,
@@ -24220,11 +24220,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"167\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"23,0\" in row \"167\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "15,0",
+          "cell": "17,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -24232,12 +24232,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "5,0",
-            "7,0",
-            "335,0",
-            "15,0",
-            "0,4666666666666667",
-            "22,333333333333332"
+            "4,0",
+            "23,0",
+            "400,0",
+            "17,0",
+            "1,3529411764705883",
+            "23,529411764705884"
           ],
           "rowNumber": 166,
           "rowPosition": 167,
@@ -24249,11 +24249,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"15,0\" in row \"167\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"17,0\" in row \"167\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "22,333333333333332",
+          "cell": "23,529411764705884",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -24261,12 +24261,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "5,0",
-            "7,0",
-            "335,0",
-            "15,0",
-            "0,4666666666666667",
-            "22,333333333333332"
+            "4,0",
+            "23,0",
+            "400,0",
+            "17,0",
+            "1,3529411764705883",
+            "23,529411764705884"
           ],
           "rowNumber": 166,
           "rowPosition": 167,
@@ -24290,12 +24290,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "6,0",
-            "20,0",
-            "550,0",
-            "22,0",
-            "0,9090909090909091",
-            "25,0"
+            "5,0",
+            "7,0",
+            "335,0",
+            "15,0",
+            "0,4666666666666667",
+            "22,333333333333332"
           ],
           "rowNumber": 167,
           "rowPosition": 168,
@@ -24311,7 +24311,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "5,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24319,12 +24319,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "6,0",
-            "20,0",
-            "550,0",
-            "22,0",
-            "0,9090909090909091",
-            "25,0"
+            "5,0",
+            "7,0",
+            "335,0",
+            "15,0",
+            "0,4666666666666667",
+            "22,333333333333332"
           ],
           "rowNumber": 167,
           "rowPosition": 168,
@@ -24336,11 +24336,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"168\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"5,0\" in row \"168\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "20,0",
+          "cell": "7,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -24348,12 +24348,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "6,0",
-            "20,0",
-            "550,0",
-            "22,0",
-            "0,9090909090909091",
-            "25,0"
+            "5,0",
+            "7,0",
+            "335,0",
+            "15,0",
+            "0,4666666666666667",
+            "22,333333333333332"
           ],
           "rowNumber": 167,
           "rowPosition": 168,
@@ -24365,11 +24365,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"20,0\" in row \"168\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"168\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "22,0",
+          "cell": "15,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -24377,12 +24377,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "6,0",
-            "20,0",
-            "550,0",
-            "22,0",
-            "0,9090909090909091",
-            "25,0"
+            "5,0",
+            "7,0",
+            "335,0",
+            "15,0",
+            "0,4666666666666667",
+            "22,333333333333332"
           ],
           "rowNumber": 167,
           "rowPosition": 168,
@@ -24394,11 +24394,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"22,0\" in row \"168\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"15,0\" in row \"168\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "25,0",
+          "cell": "22,333333333333332",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -24406,12 +24406,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "6,0",
-            "20,0",
-            "550,0",
-            "22,0",
-            "0,9090909090909091",
-            "25,0"
+            "5,0",
+            "7,0",
+            "335,0",
+            "15,0",
+            "0,4666666666666667",
+            "22,333333333333332"
           ],
           "rowNumber": 167,
           "rowPosition": 168,
@@ -24435,12 +24435,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "7,0",
-            "11,0",
-            "336,0",
-            "11,0",
-            "1,0",
-            "30,545454545454547"
+            "6,0",
+            "20,0",
+            "550,0",
+            "22,0",
+            "0,9090909090909091",
+            "25,0"
           ],
           "rowNumber": 168,
           "rowPosition": 169,
@@ -24456,7 +24456,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "6,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24464,12 +24464,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "7,0",
-            "11,0",
-            "336,0",
-            "11,0",
-            "1,0",
-            "30,545454545454547"
+            "6,0",
+            "20,0",
+            "550,0",
+            "22,0",
+            "0,9090909090909091",
+            "25,0"
           ],
           "rowNumber": 168,
           "rowPosition": 169,
@@ -24481,11 +24481,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"169\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"169\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,0",
+          "cell": "20,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -24493,12 +24493,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "7,0",
-            "11,0",
-            "336,0",
-            "11,0",
-            "1,0",
-            "30,545454545454547"
+            "6,0",
+            "20,0",
+            "550,0",
+            "22,0",
+            "0,9090909090909091",
+            "25,0"
           ],
           "rowNumber": 168,
           "rowPosition": 169,
@@ -24510,11 +24510,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"11,0\" in row \"169\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"20,0\" in row \"169\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,0",
+          "cell": "22,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -24522,12 +24522,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "7,0",
-            "11,0",
-            "336,0",
-            "11,0",
-            "1,0",
-            "30,545454545454547"
+            "6,0",
+            "20,0",
+            "550,0",
+            "22,0",
+            "0,9090909090909091",
+            "25,0"
           ],
           "rowNumber": 168,
           "rowPosition": 169,
@@ -24539,11 +24539,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"11,0\" in row \"169\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"22,0\" in row \"169\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "30,545454545454547",
+          "cell": "25,0",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -24551,12 +24551,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "7,0",
-            "11,0",
-            "336,0",
-            "11,0",
-            "1,0",
-            "30,545454545454547"
+            "6,0",
+            "20,0",
+            "550,0",
+            "22,0",
+            "0,9090909090909091",
+            "25,0"
           ],
           "rowNumber": 168,
           "rowPosition": 169,
@@ -24580,12 +24580,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "8,0",
-            "2,0",
-            "227,0",
-            "15,0",
-            "0,13333333333333333",
-            "15,133333333333333"
+            "7,0",
+            "11,0",
+            "336,0",
+            "11,0",
+            "1,0",
+            "30,545454545454547"
           ],
           "rowNumber": 169,
           "rowPosition": 170,
@@ -24601,7 +24601,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "7,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24609,12 +24609,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "8,0",
-            "2,0",
-            "227,0",
-            "15,0",
-            "0,13333333333333333",
-            "15,133333333333333"
+            "7,0",
+            "11,0",
+            "336,0",
+            "11,0",
+            "1,0",
+            "30,545454545454547"
           ],
           "rowNumber": 169,
           "rowPosition": 170,
@@ -24626,11 +24626,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"170\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"170\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "11,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -24638,12 +24638,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "8,0",
-            "2,0",
-            "227,0",
-            "15,0",
-            "0,13333333333333333",
-            "15,133333333333333"
+            "7,0",
+            "11,0",
+            "336,0",
+            "11,0",
+            "1,0",
+            "30,545454545454547"
           ],
           "rowNumber": 169,
           "rowPosition": 170,
@@ -24655,11 +24655,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"170\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"11,0\" in row \"170\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "15,0",
+          "cell": "11,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -24667,12 +24667,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "8,0",
-            "2,0",
-            "227,0",
-            "15,0",
-            "0,13333333333333333",
-            "15,133333333333333"
+            "7,0",
+            "11,0",
+            "336,0",
+            "11,0",
+            "1,0",
+            "30,545454545454547"
           ],
           "rowNumber": 169,
           "rowPosition": 170,
@@ -24684,11 +24684,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"15,0\" in row \"170\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"11,0\" in row \"170\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "15,133333333333333",
+          "cell": "30,545454545454547",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -24696,12 +24696,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "8,0",
-            "2,0",
-            "227,0",
-            "15,0",
-            "0,13333333333333333",
-            "15,133333333333333"
+            "7,0",
+            "11,0",
+            "336,0",
+            "11,0",
+            "1,0",
+            "30,545454545454547"
           ],
           "rowNumber": 169,
           "rowPosition": 170,
@@ -24725,12 +24725,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "9,0",
-            "6,0",
-            "334,0",
-            "10,0",
-            "0,6",
-            "33,4"
+            "8,0",
+            "2,0",
+            "227,0",
+            "15,0",
+            "0,13333333333333333",
+            "15,133333333333333"
           ],
           "rowNumber": 170,
           "rowPosition": 171,
@@ -24746,7 +24746,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "9,0",
+          "cell": "8,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24754,12 +24754,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "9,0",
-            "6,0",
-            "334,0",
-            "10,0",
-            "0,6",
-            "33,4"
+            "8,0",
+            "2,0",
+            "227,0",
+            "15,0",
+            "0,13333333333333333",
+            "15,133333333333333"
           ],
           "rowNumber": 170,
           "rowPosition": 171,
@@ -24771,11 +24771,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"9,0\" in row \"171\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"171\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "2,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -24783,12 +24783,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "9,0",
-            "6,0",
-            "334,0",
-            "10,0",
-            "0,6",
-            "33,4"
+            "8,0",
+            "2,0",
+            "227,0",
+            "15,0",
+            "0,13333333333333333",
+            "15,133333333333333"
           ],
           "rowNumber": 170,
           "rowPosition": 171,
@@ -24800,11 +24800,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"171\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"171\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "10,0",
+          "cell": "15,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -24812,12 +24812,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "9,0",
-            "6,0",
-            "334,0",
-            "10,0",
-            "0,6",
-            "33,4"
+            "8,0",
+            "2,0",
+            "227,0",
+            "15,0",
+            "0,13333333333333333",
+            "15,133333333333333"
           ],
           "rowNumber": 170,
           "rowPosition": 171,
@@ -24829,11 +24829,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"10,0\" in row \"171\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"15,0\" in row \"171\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "33,4",
+          "cell": "15,133333333333333",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -24841,12 +24841,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "9,0",
-            "6,0",
-            "334,0",
-            "10,0",
-            "0,6",
-            "33,4"
+            "8,0",
+            "2,0",
+            "227,0",
+            "15,0",
+            "0,13333333333333333",
+            "15,133333333333333"
           ],
           "rowNumber": 170,
           "rowPosition": 171,
@@ -24870,12 +24870,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "10,0",
             "9,0",
-            "290,0",
-            "17,0",
-            "0,5294117647058824",
-            "17,058823529411764"
+            "6,0",
+            "334,0",
+            "10,0",
+            "0,6",
+            "33,4"
           ],
           "rowNumber": 171,
           "rowPosition": 172,
@@ -24891,7 +24891,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "10,0",
+          "cell": "9,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24899,12 +24899,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "10,0",
             "9,0",
-            "290,0",
-            "17,0",
-            "0,5294117647058824",
-            "17,058823529411764"
+            "6,0",
+            "334,0",
+            "10,0",
+            "0,6",
+            "33,4"
           ],
           "rowNumber": 171,
           "rowPosition": 172,
@@ -24916,11 +24916,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"10,0\" in row \"172\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"172\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "9,0",
+          "cell": "6,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -24928,12 +24928,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "10,0",
             "9,0",
-            "290,0",
-            "17,0",
-            "0,5294117647058824",
-            "17,058823529411764"
+            "6,0",
+            "334,0",
+            "10,0",
+            "0,6",
+            "33,4"
           ],
           "rowNumber": 171,
           "rowPosition": 172,
@@ -24945,11 +24945,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"9,0\" in row \"172\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"172\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17,0",
+          "cell": "10,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -24957,12 +24957,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "10,0",
             "9,0",
-            "290,0",
-            "17,0",
-            "0,5294117647058824",
-            "17,058823529411764"
+            "6,0",
+            "334,0",
+            "10,0",
+            "0,6",
+            "33,4"
           ],
           "rowNumber": 171,
           "rowPosition": 172,
@@ -24974,11 +24974,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"17,0\" in row \"172\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"10,0\" in row \"172\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17,058823529411764",
+          "cell": "33,4",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -24986,12 +24986,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "10,0",
             "9,0",
-            "290,0",
-            "17,0",
-            "0,5294117647058824",
-            "17,058823529411764"
+            "6,0",
+            "334,0",
+            "10,0",
+            "0,6",
+            "33,4"
           ],
           "rowNumber": 171,
           "rowPosition": 172,
@@ -25015,12 +25015,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "11,0",
-            "4,0",
-            "293,0",
-            "15,0",
-            "0,26666666666666666",
-            "19,533333333333335"
+            "10,0",
+            "9,0",
+            "290,0",
+            "17,0",
+            "0,5294117647058824",
+            "17,058823529411764"
           ],
           "rowNumber": 172,
           "rowPosition": 173,
@@ -25036,7 +25036,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,0",
+          "cell": "10,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -25044,12 +25044,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "11,0",
-            "4,0",
-            "293,0",
-            "15,0",
-            "0,26666666666666666",
-            "19,533333333333335"
+            "10,0",
+            "9,0",
+            "290,0",
+            "17,0",
+            "0,5294117647058824",
+            "17,058823529411764"
           ],
           "rowNumber": 172,
           "rowPosition": 173,
@@ -25061,11 +25061,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"11,0\" in row \"173\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"10,0\" in row \"173\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "4,0",
+          "cell": "9,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -25073,12 +25073,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "11,0",
-            "4,0",
-            "293,0",
-            "15,0",
-            "0,26666666666666666",
-            "19,533333333333335"
+            "10,0",
+            "9,0",
+            "290,0",
+            "17,0",
+            "0,5294117647058824",
+            "17,058823529411764"
           ],
           "rowNumber": 172,
           "rowPosition": 173,
@@ -25090,11 +25090,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"173\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"173\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "15,0",
+          "cell": "17,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -25102,12 +25102,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "11,0",
-            "4,0",
-            "293,0",
-            "15,0",
-            "0,26666666666666666",
-            "19,533333333333335"
+            "10,0",
+            "9,0",
+            "290,0",
+            "17,0",
+            "0,5294117647058824",
+            "17,058823529411764"
           ],
           "rowNumber": 172,
           "rowPosition": 173,
@@ -25119,11 +25119,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"15,0\" in row \"173\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"17,0\" in row \"173\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "19,533333333333335",
+          "cell": "17,058823529411764",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -25131,12 +25131,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "11,0",
-            "4,0",
-            "293,0",
-            "15,0",
-            "0,26666666666666666",
-            "19,533333333333335"
+            "10,0",
+            "9,0",
+            "290,0",
+            "17,0",
+            "0,5294117647058824",
+            "17,058823529411764"
           ],
           "rowNumber": 172,
           "rowPosition": 173,
@@ -25160,12 +25160,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2025,0",
-            "12,0",
-            "3,0",
-            "223,0",
-            "8,0",
-            "0,375",
-            "27,875"
+            "11,0",
+            "4,0",
+            "293,0",
+            "15,0",
+            "0,26666666666666666",
+            "19,533333333333335"
           ],
           "rowNumber": 173,
           "rowPosition": 174,
@@ -25178,6 +25178,151 @@
           ],
           "note": "type is \"integer/default\"",
           "message": "Type error in the cell \"2025,0\" in row \"174\" and field \"ano\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "11,0",
+          "fieldName": "mes",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2025,0",
+            "11,0",
+            "4,0",
+            "293,0",
+            "15,0",
+            "0,26666666666666666",
+            "19,533333333333335"
+          ],
+          "rowNumber": 173,
+          "rowPosition": 174,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"11,0\" in row \"174\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "4,0",
+          "fieldName": "exames_img",
+          "fieldNumber": 5,
+          "fieldPosition": 5,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2025,0",
+            "11,0",
+            "4,0",
+            "293,0",
+            "15,0",
+            "0,26666666666666666",
+            "19,533333333333335"
+          ],
+          "rowNumber": 173,
+          "rowPosition": 174,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"174\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "15,0",
+          "fieldName": "exames_lab",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2025,0",
+            "11,0",
+            "4,0",
+            "293,0",
+            "15,0",
+            "0,26666666666666666",
+            "19,533333333333335"
+          ],
+          "rowNumber": 173,
+          "rowPosition": 174,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"15,0\" in row \"174\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "19,533333333333335",
+          "fieldName": "",
+          "fieldNumber": 8,
+          "fieldPosition": 9,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2025,0",
+            "11,0",
+            "4,0",
+            "293,0",
+            "15,0",
+            "0,26666666666666666",
+            "19,533333333333335"
+          ],
+          "rowNumber": 173,
+          "rowPosition": 174,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"174\" has an extra value in field at position \"9\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2025,0",
+          "fieldName": "ano",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2025,0",
+            "12,0",
+            "3,0",
+            "223,0",
+            "8,0",
+            "0,375",
+            "27,875"
+          ],
+          "rowNumber": 174,
+          "rowPosition": 175,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2025,0\" in row \"175\" and field \"ano\" at position \"3\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -25196,8 +25341,8 @@
             "0,375",
             "27,875"
           ],
-          "rowNumber": 173,
-          "rowPosition": 174,
+          "rowNumber": 174,
+          "rowPosition": 175,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -25206,7 +25351,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"12,0\" in row \"174\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"12,0\" in row \"175\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -25225,8 +25370,8 @@
             "0,375",
             "27,875"
           ],
-          "rowNumber": 173,
-          "rowPosition": 174,
+          "rowNumber": 174,
+          "rowPosition": 175,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -25235,7 +25380,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"3,0\" in row \"174\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"3,0\" in row \"175\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -25254,8 +25399,8 @@
             "0,375",
             "27,875"
           ],
-          "rowNumber": 173,
-          "rowPosition": 174,
+          "rowNumber": 174,
+          "rowPosition": 175,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -25264,7 +25409,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"174\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"175\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -25282,151 +25427,6 @@
             "8,0",
             "0,375",
             "27,875"
-          ],
-          "rowNumber": 173,
-          "rowPosition": 174,
-          "code": "extra-cell",
-          "name": "Extra Cell",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "",
-          "message": "Row at position \"174\" has an extra value in field at position \"9\"",
-          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
-        },
-        {
-          "cell": "2026,0",
-          "fieldName": "ano",
-          "fieldNumber": 3,
-          "fieldPosition": 3,
-          "cells": [
-            "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2026,0",
-            "1,0",
-            "0,0",
-            "255,0",
-            "19,0",
-            "0,0",
-            "13,421052631578947"
-          ],
-          "rowNumber": 174,
-          "rowPosition": 175,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2026,0\" in row \"175\" and field \"ano\" at position \"3\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "1,0",
-          "fieldName": "mes",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2026,0",
-            "1,0",
-            "0,0",
-            "255,0",
-            "19,0",
-            "0,0",
-            "13,421052631578947"
-          ],
-          "rowNumber": 174,
-          "rowPosition": 175,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"1,0\" in row \"175\" and field \"mes\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "0,0",
-          "fieldName": "exames_img",
-          "fieldNumber": 5,
-          "fieldPosition": 5,
-          "cells": [
-            "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2026,0",
-            "1,0",
-            "0,0",
-            "255,0",
-            "19,0",
-            "0,0",
-            "13,421052631578947"
-          ],
-          "rowNumber": 174,
-          "rowPosition": 175,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"0,0\" in row \"175\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "19,0",
-          "fieldName": "exames_lab",
-          "fieldNumber": 7,
-          "fieldPosition": 7,
-          "cells": [
-            "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2026,0",
-            "1,0",
-            "0,0",
-            "255,0",
-            "19,0",
-            "0,0",
-            "13,421052631578947"
-          ],
-          "rowNumber": 174,
-          "rowPosition": 175,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"19,0\" in row \"175\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "13,421052631578947",
-          "fieldName": "",
-          "fieldNumber": 8,
-          "fieldPosition": 9,
-          "cells": [
-            "CHPB",
-            "UIP-MASCULINA/CHPB/CHB",
-            "2026,0",
-            "1,0",
-            "0,0",
-            "255,0",
-            "19,0",
-            "0,0",
-            "13,421052631578947"
           ],
           "rowNumber": 174,
           "rowPosition": 175,
@@ -25450,12 +25450,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "2,0",
-            "16,0",
-            "397,0",
-            "10,0",
-            "1,6",
-            "39,7"
+            "1,0",
+            "0,0",
+            "255,0",
+            "19,0",
+            "0,0",
+            "13,421052631578947"
           ],
           "rowNumber": 175,
           "rowPosition": 176,
@@ -25471,7 +25471,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "1,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -25479,12 +25479,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "2,0",
-            "16,0",
-            "397,0",
-            "10,0",
-            "1,6",
-            "39,7"
+            "1,0",
+            "0,0",
+            "255,0",
+            "19,0",
+            "0,0",
+            "13,421052631578947"
           ],
           "rowNumber": 175,
           "rowPosition": 176,
@@ -25496,11 +25496,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"176\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"176\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "16,0",
+          "cell": "0,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -25508,12 +25508,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "2,0",
-            "16,0",
-            "397,0",
-            "10,0",
-            "1,6",
-            "39,7"
+            "1,0",
+            "0,0",
+            "255,0",
+            "19,0",
+            "0,0",
+            "13,421052631578947"
           ],
           "rowNumber": 175,
           "rowPosition": 176,
@@ -25525,11 +25525,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"16,0\" in row \"176\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"0,0\" in row \"176\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "10,0",
+          "cell": "19,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -25537,12 +25537,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "2,0",
-            "16,0",
-            "397,0",
-            "10,0",
-            "1,6",
-            "39,7"
+            "1,0",
+            "0,0",
+            "255,0",
+            "19,0",
+            "0,0",
+            "13,421052631578947"
           ],
           "rowNumber": 175,
           "rowPosition": 176,
@@ -25554,11 +25554,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"10,0\" in row \"176\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"19,0\" in row \"176\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "39,7",
+          "cell": "13,421052631578947",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -25566,12 +25566,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "2,0",
-            "16,0",
-            "397,0",
-            "10,0",
-            "1,6",
-            "39,7"
+            "1,0",
+            "0,0",
+            "255,0",
+            "19,0",
+            "0,0",
+            "13,421052631578947"
           ],
           "rowNumber": 175,
           "rowPosition": 176,
@@ -25595,12 +25595,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "3,0",
+            "2,0",
+            "16,0",
+            "397,0",
             "10,0",
-            "523,0",
-            "17,0",
-            "0,5882352941176471",
-            "30,764705882352942"
+            "1,6",
+            "39,7"
           ],
           "rowNumber": 176,
           "rowPosition": 177,
@@ -25616,7 +25616,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "3,0",
+          "cell": "2,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -25624,12 +25624,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "3,0",
+            "2,0",
+            "16,0",
+            "397,0",
             "10,0",
-            "523,0",
-            "17,0",
-            "0,5882352941176471",
-            "30,764705882352942"
+            "1,6",
+            "39,7"
           ],
           "rowNumber": 176,
           "rowPosition": 177,
@@ -25641,11 +25641,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"3,0\" in row \"177\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"177\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "10,0",
+          "cell": "16,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -25653,12 +25653,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "3,0",
+            "2,0",
+            "16,0",
+            "397,0",
             "10,0",
-            "523,0",
-            "17,0",
-            "0,5882352941176471",
-            "30,764705882352942"
+            "1,6",
+            "39,7"
           ],
           "rowNumber": 176,
           "rowPosition": 177,
@@ -25670,11 +25670,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"10,0\" in row \"177\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"16,0\" in row \"177\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17,0",
+          "cell": "10,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -25682,12 +25682,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "3,0",
+            "2,0",
+            "16,0",
+            "397,0",
             "10,0",
-            "523,0",
-            "17,0",
-            "0,5882352941176471",
-            "30,764705882352942"
+            "1,6",
+            "39,7"
           ],
           "rowNumber": 176,
           "rowPosition": 177,
@@ -25699,11 +25699,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"17,0\" in row \"177\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"10,0\" in row \"177\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "30,764705882352942",
+          "cell": "39,7",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -25711,12 +25711,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "3,0",
+            "2,0",
+            "16,0",
+            "397,0",
             "10,0",
-            "523,0",
-            "17,0",
-            "0,5882352941176471",
-            "30,764705882352942"
+            "1,6",
+            "39,7"
           ],
           "rowNumber": 176,
           "rowPosition": 177,
@@ -25740,12 +25740,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "4,0",
-            "8,0",
-            "269,0",
-            "9,0",
-            "0,8888888888888888",
-            "29,88888888888889"
+            "3,0",
+            "10,0",
+            "523,0",
+            "17,0",
+            "0,5882352941176471",
+            "30,764705882352942"
           ],
           "rowNumber": 177,
           "rowPosition": 178,
@@ -25761,7 +25761,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "4,0",
+          "cell": "3,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -25769,12 +25769,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "4,0",
-            "8,0",
-            "269,0",
-            "9,0",
-            "0,8888888888888888",
-            "29,88888888888889"
+            "3,0",
+            "10,0",
+            "523,0",
+            "17,0",
+            "0,5882352941176471",
+            "30,764705882352942"
           ],
           "rowNumber": 177,
           "rowPosition": 178,
@@ -25786,11 +25786,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"178\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"3,0\" in row \"178\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "10,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -25798,12 +25798,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "4,0",
-            "8,0",
-            "269,0",
-            "9,0",
-            "0,8888888888888888",
-            "29,88888888888889"
+            "3,0",
+            "10,0",
+            "523,0",
+            "17,0",
+            "0,5882352941176471",
+            "30,764705882352942"
           ],
           "rowNumber": 177,
           "rowPosition": 178,
@@ -25815,11 +25815,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"178\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"10,0\" in row \"178\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "9,0",
+          "cell": "17,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -25827,12 +25827,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "4,0",
-            "8,0",
-            "269,0",
-            "9,0",
-            "0,8888888888888888",
-            "29,88888888888889"
+            "3,0",
+            "10,0",
+            "523,0",
+            "17,0",
+            "0,5882352941176471",
+            "30,764705882352942"
           ],
           "rowNumber": 177,
           "rowPosition": 178,
@@ -25844,11 +25844,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"9,0\" in row \"178\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"17,0\" in row \"178\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "29,88888888888889",
+          "cell": "30,764705882352942",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -25856,12 +25856,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "4,0",
-            "8,0",
-            "269,0",
-            "9,0",
-            "0,8888888888888888",
-            "29,88888888888889"
+            "3,0",
+            "10,0",
+            "523,0",
+            "17,0",
+            "0,5882352941176471",
+            "30,764705882352942"
           ],
           "rowNumber": 177,
           "rowPosition": 178,
@@ -25885,12 +25885,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "5,0",
-            "5,0",
-            "396,0",
-            "12,0",
-            "0,4166666666666667",
-            "33,0"
+            "4,0",
+            "8,0",
+            "269,0",
+            "9,0",
+            "0,8888888888888888",
+            "29,88888888888889"
           ],
           "rowNumber": 178,
           "rowPosition": 179,
@@ -25906,7 +25906,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "5,0",
+          "cell": "4,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -25914,12 +25914,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "5,0",
-            "5,0",
-            "396,0",
-            "12,0",
-            "0,4166666666666667",
-            "33,0"
+            "4,0",
+            "8,0",
+            "269,0",
+            "9,0",
+            "0,8888888888888888",
+            "29,88888888888889"
           ],
           "rowNumber": 178,
           "rowPosition": 179,
@@ -25931,11 +25931,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"5,0\" in row \"179\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"179\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "5,0",
+          "cell": "8,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -25943,12 +25943,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "5,0",
-            "5,0",
-            "396,0",
-            "12,0",
-            "0,4166666666666667",
-            "33,0"
+            "4,0",
+            "8,0",
+            "269,0",
+            "9,0",
+            "0,8888888888888888",
+            "29,88888888888889"
           ],
           "rowNumber": 178,
           "rowPosition": 179,
@@ -25960,11 +25960,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"5,0\" in row \"179\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"179\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "12,0",
+          "cell": "9,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -25972,12 +25972,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "5,0",
-            "5,0",
-            "396,0",
-            "12,0",
-            "0,4166666666666667",
-            "33,0"
+            "4,0",
+            "8,0",
+            "269,0",
+            "9,0",
+            "0,8888888888888888",
+            "29,88888888888889"
           ],
           "rowNumber": 178,
           "rowPosition": 179,
@@ -25989,11 +25989,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"12,0\" in row \"179\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"179\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "33,0",
+          "cell": "29,88888888888889",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -26001,12 +26001,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "5,0",
-            "5,0",
-            "396,0",
-            "12,0",
-            "0,4166666666666667",
-            "33,0"
+            "4,0",
+            "8,0",
+            "269,0",
+            "9,0",
+            "0,8888888888888888",
+            "29,88888888888889"
           ],
           "rowNumber": 178,
           "rowPosition": 179,
@@ -26030,12 +26030,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "6,0",
-            "4,0",
-            "282,0",
+            "5,0",
+            "5,0",
+            "396,0",
             "12,0",
-            "0,3333333333333333",
-            "23,5"
+            "0,4166666666666667",
+            "33,0"
           ],
           "rowNumber": 179,
           "rowPosition": 180,
@@ -26051,7 +26051,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "5,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -26059,12 +26059,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "6,0",
-            "4,0",
-            "282,0",
+            "5,0",
+            "5,0",
+            "396,0",
             "12,0",
-            "0,3333333333333333",
-            "23,5"
+            "0,4166666666666667",
+            "33,0"
           ],
           "rowNumber": 179,
           "rowPosition": 180,
@@ -26076,11 +26076,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"180\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"5,0\" in row \"180\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "4,0",
+          "cell": "5,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -26088,12 +26088,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "6,0",
-            "4,0",
-            "282,0",
+            "5,0",
+            "5,0",
+            "396,0",
             "12,0",
-            "0,3333333333333333",
-            "23,5"
+            "0,4166666666666667",
+            "33,0"
           ],
           "rowNumber": 179,
           "rowPosition": 180,
@@ -26105,7 +26105,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"180\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"5,0\" in row \"180\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -26117,12 +26117,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "6,0",
-            "4,0",
-            "282,0",
+            "5,0",
+            "5,0",
+            "396,0",
             "12,0",
-            "0,3333333333333333",
-            "23,5"
+            "0,4166666666666667",
+            "33,0"
           ],
           "rowNumber": 179,
           "rowPosition": 180,
@@ -26138,7 +26138,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "23,5",
+          "cell": "33,0",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -26146,12 +26146,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "6,0",
-            "4,0",
-            "282,0",
+            "5,0",
+            "5,0",
+            "396,0",
             "12,0",
-            "0,3333333333333333",
-            "23,5"
+            "0,4166666666666667",
+            "33,0"
           ],
           "rowNumber": 179,
           "rowPosition": 180,
@@ -26175,12 +26175,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "7,0",
-            "8,0",
-            "352,0",
-            "7,0",
-            "1,1428571428571428",
-            "50,285714285714285"
+            "6,0",
+            "4,0",
+            "282,0",
+            "12,0",
+            "0,3333333333333333",
+            "23,5"
           ],
           "rowNumber": 180,
           "rowPosition": 181,
@@ -26196,7 +26196,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "6,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -26204,12 +26204,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "7,0",
-            "8,0",
-            "352,0",
-            "7,0",
-            "1,1428571428571428",
-            "50,285714285714285"
+            "6,0",
+            "4,0",
+            "282,0",
+            "12,0",
+            "0,3333333333333333",
+            "23,5"
           ],
           "rowNumber": 180,
           "rowPosition": 181,
@@ -26221,11 +26221,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"181\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"181\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "4,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -26233,12 +26233,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "7,0",
-            "8,0",
-            "352,0",
-            "7,0",
-            "1,1428571428571428",
-            "50,285714285714285"
+            "6,0",
+            "4,0",
+            "282,0",
+            "12,0",
+            "0,3333333333333333",
+            "23,5"
           ],
           "rowNumber": 180,
           "rowPosition": 181,
@@ -26250,11 +26250,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"181\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"181\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "12,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -26262,12 +26262,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "7,0",
-            "8,0",
-            "352,0",
-            "7,0",
-            "1,1428571428571428",
-            "50,285714285714285"
+            "6,0",
+            "4,0",
+            "282,0",
+            "12,0",
+            "0,3333333333333333",
+            "23,5"
           ],
           "rowNumber": 180,
           "rowPosition": 181,
@@ -26279,11 +26279,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"181\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"12,0\" in row \"181\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "50,285714285714285",
+          "cell": "23,5",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
@@ -26291,12 +26291,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
-            "7,0",
-            "8,0",
-            "352,0",
-            "7,0",
-            "1,1428571428571428",
-            "50,285714285714285"
+            "6,0",
+            "4,0",
+            "282,0",
+            "12,0",
+            "0,3333333333333333",
+            "23,5"
           ],
           "rowNumber": 180,
           "rowPosition": 181,
@@ -26320,12 +26320,12 @@
             "CHPB",
             "UIP-MASCULINA/CHPB/CHB",
             "2026,0",
+            "7,0",
             "8,0",
-            "6,0",
-            "36,0",
-            "12,0",
-            "0,5",
-            "3,0"
+            "352,0",
+            "7,0",
+            "1,1428571428571428",
+            "50,285714285714285"
           ],
           "rowNumber": 181,
           "rowPosition": 182,
@@ -26338,6 +26338,151 @@
           ],
           "note": "type is \"integer/default\"",
           "message": "Type error in the cell \"2026,0\" in row \"182\" and field \"ano\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "7,0",
+          "fieldName": "mes",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "7,0",
+            "8,0",
+            "352,0",
+            "7,0",
+            "1,1428571428571428",
+            "50,285714285714285"
+          ],
+          "rowNumber": 181,
+          "rowPosition": 182,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"182\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "8,0",
+          "fieldName": "exames_img",
+          "fieldNumber": 5,
+          "fieldPosition": 5,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "7,0",
+            "8,0",
+            "352,0",
+            "7,0",
+            "1,1428571428571428",
+            "50,285714285714285"
+          ],
+          "rowNumber": 181,
+          "rowPosition": 182,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"182\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "7,0",
+          "fieldName": "exames_lab",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "7,0",
+            "8,0",
+            "352,0",
+            "7,0",
+            "1,1428571428571428",
+            "50,285714285714285"
+          ],
+          "rowNumber": 181,
+          "rowPosition": 182,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"182\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "50,285714285714285",
+          "fieldName": "",
+          "fieldNumber": 8,
+          "fieldPosition": 9,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "7,0",
+            "8,0",
+            "352,0",
+            "7,0",
+            "1,1428571428571428",
+            "50,285714285714285"
+          ],
+          "rowNumber": 181,
+          "rowPosition": 182,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"182\" has an extra value in field at position \"9\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "CHPB",
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "8,0",
+            "6,0",
+            "36,0",
+            "12,0",
+            "0,5",
+            "3,0"
+          ],
+          "rowNumber": 182,
+          "rowPosition": 183,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"183\" and field \"ano\" at position \"3\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -26356,8 +26501,8 @@
             "0,5",
             "3,0"
           ],
-          "rowNumber": 181,
-          "rowPosition": 182,
+          "rowNumber": 182,
+          "rowPosition": 183,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -26366,7 +26511,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"182\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"183\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -26385,8 +26530,8 @@
             "0,5",
             "3,0"
           ],
-          "rowNumber": 181,
-          "rowPosition": 182,
+          "rowNumber": 182,
+          "rowPosition": 183,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -26395,7 +26540,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"182\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"183\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -26414,8 +26559,8 @@
             "0,5",
             "3,0"
           ],
-          "rowNumber": 181,
-          "rowPosition": 182,
+          "rowNumber": 182,
+          "rowPosition": 183,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -26424,7 +26569,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"12,0\" in row \"182\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"12,0\" in row \"183\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -26443,151 +26588,6 @@
             "0,5",
             "3,0"
           ],
-          "rowNumber": 181,
-          "rowPosition": 182,
-          "code": "extra-cell",
-          "name": "Extra Cell",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "",
-          "message": "Row at position \"182\" has an extra value in field at position \"9\"",
-          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
-        },
-        {
-          "cell": "2020,0",
-          "fieldName": "ano",
-          "fieldNumber": 3,
-          "fieldPosition": 3,
-          "cells": [
-            "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "4,0",
-            "1,0",
-            "0,0",
-            "4,0",
-            "0,25",
-            "0,0"
-          ],
-          "rowNumber": 182,
-          "rowPosition": 183,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2020,0\" in row \"183\" and field \"ano\" at position \"3\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "4,0",
-          "fieldName": "mes",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "4,0",
-            "1,0",
-            "0,0",
-            "4,0",
-            "0,25",
-            "0,0"
-          ],
-          "rowNumber": 182,
-          "rowPosition": 183,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"183\" and field \"mes\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "1,0",
-          "fieldName": "exames_img",
-          "fieldNumber": 5,
-          "fieldPosition": 5,
-          "cells": [
-            "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "4,0",
-            "1,0",
-            "0,0",
-            "4,0",
-            "0,25",
-            "0,0"
-          ],
-          "rowNumber": 182,
-          "rowPosition": 183,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"1,0\" in row \"183\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "4,0",
-          "fieldName": "exames_lab",
-          "fieldNumber": 7,
-          "fieldPosition": 7,
-          "cells": [
-            "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "4,0",
-            "1,0",
-            "0,0",
-            "4,0",
-            "0,25",
-            "0,0"
-          ],
-          "rowNumber": 182,
-          "rowPosition": 183,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"183\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "0,0",
-          "fieldName": "",
-          "fieldNumber": 8,
-          "fieldPosition": 9,
-          "cells": [
-            "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "4,0",
-            "1,0",
-            "0,0",
-            "4,0",
-            "0,25",
-            "0,0"
-          ],
           "rowNumber": 182,
           "rowPosition": 183,
           "code": "extra-cell",
@@ -26602,20 +26602,20 @@
           "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
         },
         {
-          "cell": "2020,0",
+          "cell": "2026,0",
           "fieldName": "ano",
           "fieldNumber": 3,
           "fieldPosition": 3,
           "cells": [
             "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "5,0",
-            "1,0",
-            "0,0",
-            "8,0",
-            "0,125",
-            "0,0"
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "9,0",
+            "3,0",
+            "29,0",
+            "13,0",
+            "0,23076923076923078",
+            "2,230769230769231"
           ],
           "rowNumber": 183,
           "rowPosition": 184,
@@ -26627,24 +26627,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2020,0\" in row \"184\" and field \"ano\" at position \"3\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"184\" and field \"ano\" at position \"3\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "5,0",
+          "cell": "9,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "5,0",
-            "1,0",
-            "0,0",
-            "8,0",
-            "0,125",
-            "0,0"
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "9,0",
+            "3,0",
+            "29,0",
+            "13,0",
+            "0,23076923076923078",
+            "2,230769230769231"
           ],
           "rowNumber": 183,
           "rowPosition": 184,
@@ -26656,24 +26656,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"5,0\" in row \"184\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"184\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "1,0",
+          "cell": "3,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
           "cells": [
             "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "5,0",
-            "1,0",
-            "0,0",
-            "8,0",
-            "0,125",
-            "0,0"
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "9,0",
+            "3,0",
+            "29,0",
+            "13,0",
+            "0,23076923076923078",
+            "2,230769230769231"
           ],
           "rowNumber": 183,
           "rowPosition": 184,
@@ -26685,24 +26685,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"1,0\" in row \"184\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"3,0\" in row \"184\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "13,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
             "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "5,0",
-            "1,0",
-            "0,0",
-            "8,0",
-            "0,125",
-            "0,0"
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "9,0",
+            "3,0",
+            "29,0",
+            "13,0",
+            "0,23076923076923078",
+            "2,230769230769231"
           ],
           "rowNumber": 183,
           "rowPosition": 184,
@@ -26714,24 +26714,24 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"184\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"13,0\" in row \"184\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "0,0",
+          "cell": "2,230769230769231",
           "fieldName": "",
           "fieldNumber": 8,
           "fieldPosition": 9,
           "cells": [
             "CHPB",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2020,0",
-            "5,0",
-            "1,0",
-            "0,0",
-            "8,0",
-            "0,125",
-            "0,0"
+            "UIP-MASCULINA/CHPB/CHB",
+            "2026,0",
+            "9,0",
+            "3,0",
+            "29,0",
+            "13,0",
+            "0,23076923076923078",
+            "2,230769230769231"
           ],
           "rowNumber": 183,
           "rowPosition": 184,
@@ -26755,11 +26755,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "6,0",
-            "2,0",
+            "4,0",
+            "1,0",
             "0,0",
-            "6,0",
-            "0,3333333333333333",
+            "4,0",
+            "0,25",
             "0,0"
           ],
           "rowNumber": 184,
@@ -26776,7 +26776,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "4,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -26784,11 +26784,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "6,0",
-            "2,0",
+            "4,0",
+            "1,0",
             "0,0",
-            "6,0",
-            "0,3333333333333333",
+            "4,0",
+            "0,25",
             "0,0"
           ],
           "rowNumber": 184,
@@ -26801,11 +26801,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"185\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"185\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "1,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -26813,11 +26813,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "6,0",
-            "2,0",
+            "4,0",
+            "1,0",
             "0,0",
-            "6,0",
-            "0,3333333333333333",
+            "4,0",
+            "0,25",
             "0,0"
           ],
           "rowNumber": 184,
@@ -26830,11 +26830,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"185\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"185\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "4,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -26842,11 +26842,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "6,0",
-            "2,0",
+            "4,0",
+            "1,0",
             "0,0",
-            "6,0",
-            "0,3333333333333333",
+            "4,0",
+            "0,25",
             "0,0"
           ],
           "rowNumber": 184,
@@ -26859,7 +26859,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"185\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"185\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -26871,11 +26871,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "6,0",
-            "2,0",
+            "4,0",
+            "1,0",
             "0,0",
-            "6,0",
-            "0,3333333333333333",
+            "4,0",
+            "0,25",
             "0,0"
           ],
           "rowNumber": 184,
@@ -26900,11 +26900,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "7,0",
-            "6,0",
-            "0,0",
-            "6,0",
+            "5,0",
             "1,0",
+            "0,0",
+            "8,0",
+            "0,125",
             "0,0"
           ],
           "rowNumber": 185,
@@ -26921,7 +26921,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "5,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -26929,11 +26929,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "7,0",
-            "6,0",
-            "0,0",
-            "6,0",
+            "5,0",
             "1,0",
+            "0,0",
+            "8,0",
+            "0,125",
             "0,0"
           ],
           "rowNumber": 185,
@@ -26946,11 +26946,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"186\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"5,0\" in row \"186\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "1,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -26958,11 +26958,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "7,0",
-            "6,0",
-            "0,0",
-            "6,0",
+            "5,0",
             "1,0",
+            "0,0",
+            "8,0",
+            "0,125",
             "0,0"
           ],
           "rowNumber": 185,
@@ -26975,11 +26975,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"186\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"186\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "8,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -26987,11 +26987,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "7,0",
-            "6,0",
-            "0,0",
-            "6,0",
+            "5,0",
             "1,0",
+            "0,0",
+            "8,0",
+            "0,125",
             "0,0"
           ],
           "rowNumber": 185,
@@ -27004,7 +27004,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"186\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"186\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27016,11 +27016,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "7,0",
-            "6,0",
-            "0,0",
-            "6,0",
+            "5,0",
             "1,0",
+            "0,0",
+            "8,0",
+            "0,125",
             "0,0"
           ],
           "rowNumber": 185,
@@ -27045,11 +27045,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "8,0",
-            "1,0",
+            "6,0",
+            "2,0",
             "0,0",
-            "11,0",
-            "0,09090909090909091",
+            "6,0",
+            "0,3333333333333333",
             "0,0"
           ],
           "rowNumber": 186,
@@ -27066,7 +27066,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "6,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -27074,11 +27074,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "8,0",
-            "1,0",
+            "6,0",
+            "2,0",
             "0,0",
-            "11,0",
-            "0,09090909090909091",
+            "6,0",
+            "0,3333333333333333",
             "0,0"
           ],
           "rowNumber": 186,
@@ -27091,11 +27091,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"187\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"187\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "1,0",
+          "cell": "2,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -27103,11 +27103,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "8,0",
-            "1,0",
+            "6,0",
+            "2,0",
             "0,0",
-            "11,0",
-            "0,09090909090909091",
+            "6,0",
+            "0,3333333333333333",
             "0,0"
           ],
           "rowNumber": 186,
@@ -27120,11 +27120,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"1,0\" in row \"187\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"187\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,0",
+          "cell": "6,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -27132,11 +27132,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "8,0",
-            "1,0",
+            "6,0",
+            "2,0",
             "0,0",
-            "11,0",
-            "0,09090909090909091",
+            "6,0",
+            "0,3333333333333333",
             "0,0"
           ],
           "rowNumber": 186,
@@ -27149,7 +27149,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"11,0\" in row \"187\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"187\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27161,11 +27161,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "8,0",
-            "1,0",
+            "6,0",
+            "2,0",
             "0,0",
-            "11,0",
-            "0,09090909090909091",
+            "6,0",
+            "0,3333333333333333",
             "0,0"
           ],
           "rowNumber": 186,
@@ -27190,11 +27190,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "9,0",
-            "0,0",
-            "0,0",
             "7,0",
+            "6,0",
             "0,0",
+            "6,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 187,
@@ -27211,7 +27211,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "9,0",
+          "cell": "7,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -27219,11 +27219,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "9,0",
-            "0,0",
-            "0,0",
             "7,0",
+            "6,0",
             "0,0",
+            "6,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 187,
@@ -27236,11 +27236,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"9,0\" in row \"188\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"188\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "0,0",
+          "cell": "6,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -27248,11 +27248,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "9,0",
-            "0,0",
-            "0,0",
             "7,0",
+            "6,0",
             "0,0",
+            "6,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 187,
@@ -27265,11 +27265,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"0,0\" in row \"188\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"188\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "6,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -27277,11 +27277,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "9,0",
-            "0,0",
-            "0,0",
             "7,0",
+            "6,0",
             "0,0",
+            "6,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 187,
@@ -27294,7 +27294,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"188\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"188\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27306,11 +27306,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "9,0",
-            "0,0",
-            "0,0",
             "7,0",
+            "6,0",
             "0,0",
+            "6,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 187,
@@ -27335,11 +27335,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "10,0",
+            "8,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "5,0",
-            "0,0",
+            "11,0",
+            "0,09090909090909091",
             "0,0"
           ],
           "rowNumber": 188,
@@ -27356,7 +27356,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "10,0",
+          "cell": "8,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -27364,11 +27364,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "10,0",
+            "8,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "5,0",
-            "0,0",
+            "11,0",
+            "0,09090909090909091",
             "0,0"
           ],
           "rowNumber": 188,
@@ -27381,11 +27381,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"10,0\" in row \"189\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"189\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "0,0",
+          "cell": "1,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -27393,11 +27393,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "10,0",
+            "8,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "5,0",
-            "0,0",
+            "11,0",
+            "0,09090909090909091",
             "0,0"
           ],
           "rowNumber": 188,
@@ -27410,11 +27410,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"0,0\" in row \"189\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"189\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "5,0",
+          "cell": "11,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -27422,11 +27422,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "10,0",
+            "8,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "5,0",
-            "0,0",
+            "11,0",
+            "0,09090909090909091",
             "0,0"
           ],
           "rowNumber": 188,
@@ -27439,7 +27439,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"5,0\" in row \"189\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"11,0\" in row \"189\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27451,11 +27451,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "10,0",
+            "8,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "5,0",
-            "0,0",
+            "11,0",
+            "0,09090909090909091",
             "0,0"
           ],
           "rowNumber": 188,
@@ -27480,10 +27480,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "11,0",
+            "9,0",
             "0,0",
             "0,0",
-            "3,0",
+            "7,0",
             "0,0",
             "0,0"
           ],
@@ -27501,7 +27501,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "11,0",
+          "cell": "9,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -27509,10 +27509,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "11,0",
+            "9,0",
             "0,0",
             "0,0",
-            "3,0",
+            "7,0",
             "0,0",
             "0,0"
           ],
@@ -27526,7 +27526,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"11,0\" in row \"190\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"190\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27538,10 +27538,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "11,0",
+            "9,0",
             "0,0",
             "0,0",
-            "3,0",
+            "7,0",
             "0,0",
             "0,0"
           ],
@@ -27559,7 +27559,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "3,0",
+          "cell": "7,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -27567,10 +27567,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "11,0",
+            "9,0",
             "0,0",
             "0,0",
-            "3,0",
+            "7,0",
             "0,0",
             "0,0"
           ],
@@ -27584,7 +27584,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"3,0\" in row \"190\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"190\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27596,10 +27596,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "11,0",
+            "9,0",
             "0,0",
             "0,0",
-            "3,0",
+            "7,0",
             "0,0",
             "0,0"
           ],
@@ -27625,7 +27625,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "12,0",
+            "10,0",
             "0,0",
             "0,0",
             "5,0",
@@ -27646,7 +27646,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "12,0",
+          "cell": "10,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -27654,7 +27654,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "12,0",
+            "10,0",
             "0,0",
             "0,0",
             "5,0",
@@ -27671,7 +27671,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"12,0\" in row \"191\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"10,0\" in row \"191\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27683,7 +27683,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "12,0",
+            "10,0",
             "0,0",
             "0,0",
             "5,0",
@@ -27712,7 +27712,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "12,0",
+            "10,0",
             "0,0",
             "0,0",
             "5,0",
@@ -27741,7 +27741,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2020,0",
-            "12,0",
+            "10,0",
             "0,0",
             "0,0",
             "5,0",
@@ -27762,18 +27762,18 @@
           "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
         },
         {
-          "cell": "2021,0",
+          "cell": "2020,0",
           "fieldName": "ano",
           "fieldNumber": 3,
           "fieldPosition": 3,
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "1,0",
+            "2020,0",
+            "11,0",
             "0,0",
             "0,0",
-            "9,0",
+            "3,0",
             "0,0",
             "0,0"
           ],
@@ -27787,22 +27787,22 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2021,0\" in row \"192\" and field \"ano\" at position \"3\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2020,0\" in row \"192\" and field \"ano\" at position \"3\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "1,0",
+          "cell": "11,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "1,0",
+            "2020,0",
+            "11,0",
             "0,0",
             "0,0",
-            "9,0",
+            "3,0",
             "0,0",
             "0,0"
           ],
@@ -27816,7 +27816,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"1,0\" in row \"192\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"11,0\" in row \"192\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27827,11 +27827,11 @@
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "1,0",
+            "2020,0",
+            "11,0",
             "0,0",
             "0,0",
-            "9,0",
+            "3,0",
             "0,0",
             "0,0"
           ],
@@ -27849,18 +27849,18 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "9,0",
+          "cell": "3,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "1,0",
+            "2020,0",
+            "11,0",
             "0,0",
             "0,0",
-            "9,0",
+            "3,0",
             "0,0",
             "0,0"
           ],
@@ -27874,7 +27874,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"9,0\" in row \"192\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"3,0\" in row \"192\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27885,11 +27885,11 @@
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "1,0",
+            "2020,0",
+            "11,0",
             "0,0",
             "0,0",
-            "9,0",
+            "3,0",
             "0,0",
             "0,0"
           ],
@@ -27907,18 +27907,18 @@
           "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
         },
         {
-          "cell": "2021,0",
+          "cell": "2020,0",
           "fieldName": "ano",
           "fieldNumber": 3,
           "fieldPosition": 3,
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "2,0",
+            "2020,0",
+            "12,0",
             "0,0",
             "0,0",
-            "1,0",
+            "5,0",
             "0,0",
             "0,0"
           ],
@@ -27932,22 +27932,22 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2021,0\" in row \"193\" and field \"ano\" at position \"3\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2020,0\" in row \"193\" and field \"ano\" at position \"3\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "12,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "2,0",
+            "2020,0",
+            "12,0",
             "0,0",
             "0,0",
-            "1,0",
+            "5,0",
             "0,0",
             "0,0"
           ],
@@ -27961,7 +27961,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"193\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"12,0\" in row \"193\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -27972,11 +27972,11 @@
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "2,0",
+            "2020,0",
+            "12,0",
             "0,0",
             "0,0",
-            "1,0",
+            "5,0",
             "0,0",
             "0,0"
           ],
@@ -27994,18 +27994,18 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "1,0",
+          "cell": "5,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "2,0",
+            "2020,0",
+            "12,0",
             "0,0",
             "0,0",
-            "1,0",
+            "5,0",
             "0,0",
             "0,0"
           ],
@@ -28019,7 +28019,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"1,0\" in row \"193\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"5,0\" in row \"193\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28030,11 +28030,11 @@
           "cells": [
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "2021,0",
-            "2,0",
+            "2020,0",
+            "12,0",
             "0,0",
             "0,0",
-            "1,0",
+            "5,0",
             "0,0",
             "0,0"
           ],
@@ -28060,10 +28060,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "3,0",
+            "1,0",
             "0,0",
             "0,0",
-            "2,0",
+            "9,0",
             "0,0",
             "0,0"
           ],
@@ -28081,7 +28081,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "3,0",
+          "cell": "1,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -28089,10 +28089,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "3,0",
+            "1,0",
             "0,0",
             "0,0",
-            "2,0",
+            "9,0",
             "0,0",
             "0,0"
           ],
@@ -28106,7 +28106,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"3,0\" in row \"194\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"194\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28118,10 +28118,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "3,0",
+            "1,0",
             "0,0",
             "0,0",
-            "2,0",
+            "9,0",
             "0,0",
             "0,0"
           ],
@@ -28139,7 +28139,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "9,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -28147,10 +28147,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "3,0",
+            "1,0",
             "0,0",
             "0,0",
-            "2,0",
+            "9,0",
             "0,0",
             "0,0"
           ],
@@ -28164,7 +28164,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"194\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"194\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28176,10 +28176,10 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "3,0",
+            "1,0",
             "0,0",
             "0,0",
-            "2,0",
+            "9,0",
             "0,0",
             "0,0"
           ],
@@ -28205,11 +28205,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "4,0",
             "2,0",
             "0,0",
-            "2,0",
+            "0,0",
             "1,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 194,
@@ -28226,7 +28226,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "4,0",
+          "cell": "2,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -28234,11 +28234,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "4,0",
             "2,0",
             "0,0",
-            "2,0",
+            "0,0",
             "1,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 194,
@@ -28251,11 +28251,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"195\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"195\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "0,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -28263,11 +28263,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "4,0",
             "2,0",
             "0,0",
-            "2,0",
+            "0,0",
             "1,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 194,
@@ -28280,11 +28280,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"195\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"0,0\" in row \"195\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "2,0",
+          "cell": "1,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -28292,11 +28292,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "4,0",
             "2,0",
             "0,0",
-            "2,0",
+            "0,0",
             "1,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 194,
@@ -28309,7 +28309,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"2,0\" in row \"195\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"195\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28321,11 +28321,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "4,0",
             "2,0",
             "0,0",
-            "2,0",
+            "0,0",
             "1,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 194,
@@ -28350,11 +28350,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "5,0",
-            "4,0",
+            "3,0",
+            "0,0",
             "0,0",
             "2,0",
-            "2,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 195,
@@ -28371,7 +28371,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "5,0",
+          "cell": "3,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -28379,11 +28379,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "5,0",
-            "4,0",
+            "3,0",
+            "0,0",
             "0,0",
             "2,0",
-            "2,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 195,
@@ -28396,11 +28396,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"5,0\" in row \"196\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"3,0\" in row \"196\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "4,0",
+          "cell": "0,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -28408,11 +28408,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "5,0",
-            "4,0",
+            "3,0",
+            "0,0",
             "0,0",
             "2,0",
-            "2,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 195,
@@ -28425,7 +28425,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"196\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"0,0\" in row \"196\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28437,11 +28437,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "5,0",
-            "4,0",
+            "3,0",
+            "0,0",
             "0,0",
             "2,0",
-            "2,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 195,
@@ -28466,11 +28466,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "5,0",
-            "4,0",
+            "3,0",
+            "0,0",
             "0,0",
             "2,0",
-            "2,0",
+            "0,0",
             "0,0"
           ],
           "rowNumber": 195,
@@ -28495,7 +28495,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "6,0",
+            "4,0",
             "2,0",
             "0,0",
             "2,0",
@@ -28516,7 +28516,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "6,0",
+          "cell": "4,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -28524,7 +28524,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "6,0",
+            "4,0",
             "2,0",
             "0,0",
             "2,0",
@@ -28541,7 +28541,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"6,0\" in row \"197\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"197\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28553,7 +28553,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "6,0",
+            "4,0",
             "2,0",
             "0,0",
             "2,0",
@@ -28582,7 +28582,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "6,0",
+            "4,0",
             "2,0",
             "0,0",
             "2,0",
@@ -28611,7 +28611,7 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "6,0",
+            "4,0",
             "2,0",
             "0,0",
             "2,0",
@@ -28640,11 +28640,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "7,0",
-            "1,0",
+            "5,0",
+            "4,0",
             "0,0",
-            "7,0",
-            "0,14285714285714285",
+            "2,0",
+            "2,0",
             "0,0"
           ],
           "rowNumber": 197,
@@ -28661,7 +28661,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "5,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -28669,11 +28669,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "7,0",
-            "1,0",
+            "5,0",
+            "4,0",
             "0,0",
-            "7,0",
-            "0,14285714285714285",
+            "2,0",
+            "2,0",
             "0,0"
           ],
           "rowNumber": 197,
@@ -28686,11 +28686,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"198\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"5,0\" in row \"198\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "1,0",
+          "cell": "4,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -28698,11 +28698,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "7,0",
-            "1,0",
+            "5,0",
+            "4,0",
             "0,0",
-            "7,0",
-            "0,14285714285714285",
+            "2,0",
+            "2,0",
             "0,0"
           ],
           "rowNumber": 197,
@@ -28715,11 +28715,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"1,0\" in row \"198\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"198\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "7,0",
+          "cell": "2,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -28727,11 +28727,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "7,0",
-            "1,0",
+            "5,0",
+            "4,0",
             "0,0",
-            "7,0",
-            "0,14285714285714285",
+            "2,0",
+            "2,0",
             "0,0"
           ],
           "rowNumber": 197,
@@ -28744,7 +28744,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"7,0\" in row \"198\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"198\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28756,11 +28756,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "7,0",
-            "1,0",
+            "5,0",
+            "4,0",
             "0,0",
-            "7,0",
-            "0,14285714285714285",
+            "2,0",
+            "2,0",
             "0,0"
           ],
           "rowNumber": 197,
@@ -28785,11 +28785,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "8,0",
+            "6,0",
             "2,0",
             "0,0",
-            "4,0",
-            "0,5",
+            "2,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 198,
@@ -28806,7 +28806,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "6,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -28814,11 +28814,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "8,0",
+            "6,0",
             "2,0",
             "0,0",
-            "4,0",
-            "0,5",
+            "2,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 198,
@@ -28831,7 +28831,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"8,0\" in row \"199\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"199\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28843,11 +28843,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "8,0",
+            "6,0",
             "2,0",
             "0,0",
-            "4,0",
-            "0,5",
+            "2,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 198,
@@ -28864,7 +28864,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "4,0",
+          "cell": "2,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -28872,11 +28872,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "8,0",
+            "6,0",
             "2,0",
             "0,0",
-            "4,0",
-            "0,5",
+            "2,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 198,
@@ -28889,7 +28889,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"199\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"199\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -28901,11 +28901,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "8,0",
+            "6,0",
             "2,0",
             "0,0",
-            "4,0",
-            "0,5",
+            "2,0",
+            "1,0",
             "0,0"
           ],
           "rowNumber": 198,
@@ -28930,11 +28930,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "9,0",
+            "7,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "4,0",
-            "0,0",
+            "7,0",
+            "0,14285714285714285",
             "0,0"
           ],
           "rowNumber": 199,
@@ -28951,7 +28951,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "9,0",
+          "cell": "7,0",
           "fieldName": "mes",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -28959,11 +28959,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "9,0",
+            "7,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "4,0",
-            "0,0",
+            "7,0",
+            "0,14285714285714285",
             "0,0"
           ],
           "rowNumber": 199,
@@ -28976,11 +28976,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"9,0\" in row \"200\" and field \"mes\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"200\" and field \"mes\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "0,0",
+          "cell": "1,0",
           "fieldName": "exames_img",
           "fieldNumber": 5,
           "fieldPosition": 5,
@@ -28988,11 +28988,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "9,0",
+            "7,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "4,0",
-            "0,0",
+            "7,0",
+            "0,14285714285714285",
             "0,0"
           ],
           "rowNumber": 199,
@@ -29005,11 +29005,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"0,0\" in row \"200\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"200\" and field \"exames_img\" at position \"5\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "4,0",
+          "cell": "7,0",
           "fieldName": "exames_lab",
           "fieldNumber": 7,
           "fieldPosition": 7,
@@ -29017,11 +29017,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "9,0",
+            "7,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "4,0",
-            "0,0",
+            "7,0",
+            "0,14285714285714285",
             "0,0"
           ],
           "rowNumber": 199,
@@ -29034,7 +29034,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"4,0\" in row \"200\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"200\" and field \"exames_lab\" at position \"7\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -29046,11 +29046,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "9,0",
+            "7,0",
+            "1,0",
             "0,0",
-            "0,0",
-            "4,0",
-            "0,0",
+            "7,0",
+            "0,14285714285714285",
             "0,0"
           ],
           "rowNumber": 199,
@@ -29075,11 +29075,11 @@
             "CHPB",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "2021,0",
-            "10,0",
-            "0,0",
-            "0,0",
             "8,0",
+            "2,0",
             "0,0",
+            "4,0",
+            "0,5",
             "0,0"
           ],
           "rowNumber": 200,
